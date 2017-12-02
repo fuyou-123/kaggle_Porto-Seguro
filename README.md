@@ -1,4 +1,4 @@
-# kaggle(Porto Seguro competition)
+# Kaggle(Porto Seguro competition)
 This is a binary classification project. The dataset is easy to analyse compared with other kaggle competitions. I learned a lot about parameter tuning in this project and also learned how to use AWS. 
 ## Features
 * Binary feature
